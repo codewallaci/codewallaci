@@ -1,8 +1,6 @@
 ## Oiii! Eu sou o Wallaci
  <div>
-  <a href="https://github.com/codewallaci">
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=codewallaci&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=codewallaci&show_icons=true&theme=default#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
