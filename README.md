@@ -5,7 +5,7 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
 
-Sou estudando de Sistemas de Informação e desenvolvedor fullstack..
+Sou estudando de Sistemas de Informação e desenvolvedor fullstack.
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
