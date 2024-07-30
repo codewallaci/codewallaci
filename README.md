@@ -5,11 +5,11 @@ Bem-vindo ao meu perfil do GitHub! Sou Wallaci, um apaixonado por tecnologia e d
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-beta-68.vercel.app/api?username=codewallaci&count_private=true&locale=pt-br&theme=dark&show_icons=true">
-    <img align="center" width="45%" height="220px" src="https://github-readme-stats-ten-beta-68.vercel.app/api?username=codewallaci&count_private=true&locale=pt-br&theme=dark&show_icons=true">
+    <img align="center" width="45%" height="200px" src="https://github-readme-stats-ten-beta-68.vercel.app/api?username=codewallaci&count_private=true&locale=pt-br&theme=dark&show_icons=true">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-beta-68.vercel.app/api/top-langs/?username=codewallaci&count_private=true&locale=pt-br&theme=dark&show_icons=true">
-    <img align="center" width="45%" height="220px" src="https://github-readme-stats-ten-beta-68.vercel.app/api/top-langs/?username=codewallaci&count_private=true&locale=pt-br&theme=dark&show_icons=true">
+    <img align="center" width="45%" height="200px" src="https://github-readme-stats-ten-beta-68.vercel.app/api/top-langs/?username=codewallaci&count_private=true&locale=pt-br&theme=dark&show_icons=true">
   </picture>
 </p>
 
