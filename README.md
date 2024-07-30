@@ -1,8 +1,8 @@
 ## Olá! :wave:
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=codewallaci&theme=dark&show_icons=true&count_private=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-beta-68.vercel.app/api?username=codewallaci&theme=dark&show_icons=true&count_private=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ten-beta-68.vercel.app/api?username=codewallaci&show_icons=true&count_private=true">
 </picture>
 
 Sou estudando de Sistemas de Informação e desenvolvedor fullstack.
